@@ -28,5 +28,6 @@ namespace MutantTestingApp
             frmCompareCode compareForm = new frmCompareCode();
             compareForm.ShowDialog();
         }
+
     }
 }

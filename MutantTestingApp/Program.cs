@@ -16,7 +16,7 @@ namespace MutantTestingApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMainForm());
+            Application.Run(new XMainForm());
         }
     }
 }
